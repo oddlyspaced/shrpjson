@@ -3,12 +3,12 @@
         "brand": "Xiaomi",
         "model": "Xiaomi Mi A3",
         "codeName": "laurel_sprout",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/laurel_sprout/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/laurel_sprout/",
+        "baseURL": "https://github.com/oddlyspaced/shrpjson/raw/master/",
+        "latestBuild": "SHRP_v2.3_laurel_sprout-125814062020.zip",
         "mockSrc": "img/Devices/notchTearDrop_.png",
         "maintainer": "oddlyspaced",
-        "buildNo": "125814062020",
+        "buildNo": "115814062020",
         "currentVersion": "2.3",
-        "md5": ""
+        "md5": "0e622580df6d8da08ad226eaae37513d"
     }
 ]
